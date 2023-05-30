@@ -9,7 +9,7 @@ import java.nio.file.Files;
 import java.nio.file.Path;
 import java.nio.file.Paths;
 
-public class TestReportGenerator {
+public class Task3 {
     public static void main(String[] args) {
 
         Path testsFilePath = Paths.get(args[0]);
